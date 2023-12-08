@@ -3,7 +3,8 @@
     "stack@latest",
     "cabal-install@latest",
     "zlib@latest",
-    "hpack@latest"
+    "hpack@latest",
+    "haskell-language-server@latest"
   ],
   "shell": {
     "init_hook": [
