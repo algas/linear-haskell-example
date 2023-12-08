@@ -2,9 +2,9 @@ name:                linear-haskell-example
 version:             0.1.0.0
 github:              "githubuser/linear-haskell-example"
 license:             BSD-3-Clause
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2023 Author name here"
+author:              "Masahiro Yamauchi"
+maintainer:          "sgt.yamauchi@gmail.com"
+copyright:           "2023 Masahiro Yamauchi"
 
 extra-source-files:
 - README.md

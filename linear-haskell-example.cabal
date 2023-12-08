@@ -9,9 +9,9 @@ version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/linear-haskell-example#readme>
 homepage:       https://github.com/githubuser/linear-haskell-example#readme
 bug-reports:    https://github.com/githubuser/linear-haskell-example/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2023 Author name here
+author:         Masahiro Yamauchi
+maintainer:     sgt.yamauchi@gmail.com
+copyright:      2023 Masahiro Yamauchi
 license:        BSD-3-Clause
 license-file:   LICENSE
 build-type:     Simple
